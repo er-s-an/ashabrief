@@ -10,7 +10,7 @@
 | --- | --- |
 | Demo (Vercel) | https://bharat-ashabrief.vercel.app |
 | GitHub | https://github.com/er-s-an/ashabrief |
-| SHA (`main`) | `06b9f1042bd6ac8db02c85bbab6cd39d65825b39` |
+| SHA (`main`) | `5e2bc2a17845e3b0428e671cc3baeccf71be3daa` |
 | Review clip deep link | https://review-clips.vercel.app/v/ashabrief-explainer |
 | Pitch script | `SCRIPT.md` (≤3 min EN) |
 | Local path | `/workspace/competitions/bharat-ashabrief/` |
